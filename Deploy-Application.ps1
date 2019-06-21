@@ -150,90 +150,90 @@ Try {
 		Execute-MSI -Action Uninstall -Path '{F53D6D10-7A75-4A39-8C53-A3D855C7C50A}'
 
 		# Uninstall Autodesk Civil 3D 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-0102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-0102-CF3F3A09B77D}'
 		# Uninstall Autodesk Civil 3D 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-1102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-1102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Architecture 2019 Shared
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0000-4102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0000-4102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Architecture 2019 Language Shared - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0409-4102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0409-4102-CF3F3A09B77D}'
 		# Uninstall Autodesk AutoCAD Map 3D 2019 Core
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0000-0102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0000-0102-CF3F3A09B77D}'
 		# Uninstall Autodesk AutoCAD Map 3D 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0409-1102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0409-1102-CF3F3A09B77D}'
 		# Uninstall Autodesk Vehicle Tracking 2019 (64 bit) Core
-		# Execute-MSI -Action Uninstall -Path '{F0089F74-0ED1-47CA-BEC0-53F1ACAEC68A}'
+		Execute-MSI -Action Uninstall -Path '{F0089F74-0ED1-47CA-BEC0-53F1ACAEC68A}'
 		# Uninstall Autodesk Civil 3D 2019 Private Pack
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-3102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-3102-CF3F3A09B77D}'
 		# Uninstall Autodesk Civil 3D 2019 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-2102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-2102-CF3F3A09B77D}'
 		# Uninstall Autodesk Rail Module Layout 2019
-		# Execute-MSI -Action Uninstall -Path '{F0D81F9D-6F82-43B9-ABF5-33947F5437DA}'
+		Execute-MSI -Action Uninstall -Path '{F0D81F9D-6F82-43B9-ABF5-33947F5437DA}'
 		# Uninstall Autodesk Storm and Sanitary Analysis 2019 x64 Plug-in
-		# Execute-MSI -Action Uninstall -Path '{58E36D07-2322-0000-8518-C854F44898ED}'
+		Execute-MSI -Action Uninstall -Path '{58E36D07-2322-0000-8518-C854F44898ED}'
 		# Uninstall Autodesk Subassembly Composer 2019
-		# Execute-MSI -Action Uninstall -Path '{33CFED50-0FAD-442A-84FA-4D26DB59E332}'
+		Execute-MSI -Action Uninstall -Path '{33CFED50-0FAD-442A-84FA-4D26DB59E332}'
 
 		# Uninstall AutoCAD Electrical 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-0102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-0102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Electrical 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-1102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-1102-CF3F3A09B77D}'
 		# Uninstall ACADE Private
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-3102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-3102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Electrical 2019 Content Pack
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-5102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-5102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Electrical 2019 Content Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-6102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-6102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Electrical 2019 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-2102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-2102-CF3F3A09B77D}'
 
 		# Uninstall AutoCAD Mechanical 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-0102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-0102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Mechanical 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-1102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-1102-CF3F3A09B77D}'
 		# Uninstall ACM Private
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-3102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-3102-CF3F3A09B77D}'
 		# Uninstall AutoCAD Mechanical 2018 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-2102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-2102-CF3F3A09B77D}'
 
 		# Uninstall Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{7346B4A0-1900-0510-0000-705C0D862004}'
+		Execute-MSI -Action Uninstall -Path '{7346B4A0-1900-0510-0000-705C0D862004}'
 		# Uninstall Revit Content Libraries 2019
-		# Execute-MSI -Action Uninstall -Path '{941030D0-1900-0410-0000-818BB38A95FC}'
+		Execute-MSI -Action Uninstall -Path '{941030D0-1900-0410-0000-818BB38A95FC}'
 		# Uninstall Autodesk Collaboration for Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{AA384BE4-1901-0010-0000-97E7D7D00B17}'
+		Execute-MSI -Action Uninstall -Path '{AA384BE4-1901-0010-0000-97E7D7D00B17}'
 		# Uninstall Personal Accelerator for Revit
-		# Execute-MSI -Action Uninstall -Path '{7C317DB0-F399-4024-A289-92CF4B6FB256}'
+		Execute-MSI -Action Uninstall -Path '{7C317DB0-F399-4024-A289-92CF4B6FB256}'
 		# Uninstall Batch Print for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{82AF00E4-1901-0010-0000-FCE0F87063F9}'
+		Execute-MSI -Action Uninstall -Path '{82AF00E4-1901-0010-0000-FCE0F87063F9}'
 		# Uninstall eTransmit for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{4477F08B-1901-0010-0000-9A09D834DFF5}'
+		Execute-MSI -Action Uninstall -Path '{4477F08B-1901-0010-0000-9A09D834DFF5}'
 		# Uninstall Autodesk Revit Model Review 2019
-		# Execute-MSI -Action Uninstall -Path '{715812E8-1901-0010-0000-BBB894911B46}'
+		Execute-MSI -Action Uninstall -Path '{715812E8-1901-0010-0000-BBB894911B46}'
 		# Uninstall Worksharing Monitor for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{5063E738-1901-0010-0000-7B7B9AB0B696}'
+		Execute-MSI -Action Uninstall -Path '{5063E738-1901-0010-0000-7B7B9AB0B696}'
 		# Uninstall Autodesk Material Library Low Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{77F779B8-3262-4014-97E9-36D6933A1904}'
+		Execute-MSI -Action Uninstall -Path '{77F779B8-3262-4014-97E9-36D6933A1904}'
 		# Uninstall Autodesk Advanced Material Library Base Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{105181A1-013C-4EE7-A368-999FD7ED950A}'
+		Execute-MSI -Action Uninstall -Path '{105181A1-013C-4EE7-A368-999FD7ED950A}'
 		# Uninstall Autodesk Advanced Material Library Low Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{ACC0DD09-7E20-4792-87D5-BDBE40206584}'
+		Execute-MSI -Action Uninstall -Path '{ACC0DD09-7E20-4792-87D5-BDBE40206584}'
 		# Uninstall IronPython 2.7.3
-		# Execute-MSI -Action Uninstall -Path '{1EBADAEA-1A0F-40E3-848C-0DD8C5E5A10D}'
+		Execute-MSI -Action Uninstall -Path '{1EBADAEA-1A0F-40E3-848C-0DD8C5E5A10D}'
 		# Uninstall Dynamo Core 1.3.3
-		# Execute-MSI -Action Uninstall -Path '{F1AA809A-3D47-4FB9-8854-93E070C66A20}'
+		Execute-MSI -Action Uninstall -Path '{F1AA809A-3D47-4FB9-8854-93E070C66A20}'
 		# Uninstall Dynamo Revit 1.3.3
-		# Execute-MSI -Action Uninstall -Path '{DE076F37-60CA-4BDC-A5A3-B300DEA4358C}'
+		Execute-MSI -Action Uninstall -Path '{DE076F37-60CA-4BDC-A5A3-B300DEA4358C}'
 		# Uninstall FormIt Converter for Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{5E47699C-B0DE-443F-92AE-1D1334499D5E}'
+		Execute-MSI -Action Uninstall -Path '{5E47699C-B0DE-443F-92AE-1D1334499D5E}'
 		# Uninstall Autodesk Revit 2019 MEP Fabrication Configuration - Imperial
-		# Execute-MSI -Action Uninstall -Path '{7B1D0D58-E2A9-400B-9663-86FD56CB44B9}'
+		Execute-MSI -Action Uninstall -Path '{7B1D0D58-E2A9-400B-9663-86FD56CB44B9}'
 		# Uninstall Autodesk Revit 2019 MEP Fabrication Configuration - Metric
-		# Execute-MSI -Action Uninstall -Path '{8E6AEB11-ECE7-475A-BB7D-1D6719B2F8BA}'
+		Execute-MSI -Action Uninstall -Path '{8E6AEB11-ECE7-475A-BB7D-1D6719B2F8BA}'
 		# Uninstall Autodesk Material Library Medium Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{2E819775-E94C-42CC-9C5D-ABB2ADABC7C2}'
+		Execute-MSI -Action Uninstall -Path '{2E819775-E94C-42CC-9C5D-ABB2ADABC7C2}'
 		# Uninstall Autodesk Advanced Material Library Medium Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{078698AF-8BB1-4631-86D0-D91FEE147256}'
+		Execute-MSI -Action Uninstall -Path '{078698AF-8BB1-4631-86D0-D91FEE147256}'
 }
 
 
@@ -260,62 +260,62 @@ Try {
 			Execute-MSI -Action Uninstall -Path '{28B89EEF-1001-0409-2102-CF3F3A09B77D}'
 
 			# Uninstall Autodesk AutoCAD Civil 3D 2018
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0000-0102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0000-0102-CF3F3A09B77D}'
 			# Uninstall Autodesk AutoCAD Civil 3D 2018 Language Pack - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0409-1102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0409-1102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Architecture 2018 Shared
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1004-0000-4102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1004-0000-4102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Architecture 2018 Language Shared - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1004-0409-4102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1004-0409-4102-CF3F3A09B77D}'
 			# Uninstall Autodesk AutoCAD Map 3D 2018 Core
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1002-0000-0102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1002-0000-0102-CF3F3A09B77D}'
 			# Uninstall Autodesk AutoCAD Map 3D 2018 Language Pack - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1002-0409-1102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1002-0409-1102-CF3F3A09B77D}'
 			# Uninstall Autodesk Vehicle Tracking 2018 (64 bit) Core
-			# Execute-MSI -Action Uninstall -Path '{9BB641F3-24B1-427E-A850-1C02157219EC}'
+			Execute-MSI -Action Uninstall -Path '{9BB641F3-24B1-427E-A850-1C02157219EC}'
 			# Uninstall Autodesk AutoCAD Civil 3D 2018 Private Pack
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0000-3102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0000-3102-CF3F3A09B77D}'
 			# Uninstall Autodesk AutoCAD Civil 3D 2018 - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0409-2102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1000-0409-2102-CF3F3A09B77D}'
 
 			# Uninstall AutoCAD Electrical 2018
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-0102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-0102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Electrical 2018 Language Pack - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-1102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-1102-CF3F3A09B77D}'
 			# Uninstall ACADE Private
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-3102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-3102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Electrical 2018 Content Pack
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-5102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0000-5102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Electrical 2018 Content Language Pack - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-6102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-6102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Electrical 2018 - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-2102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1007-0409-2102-CF3F3A09B77D}'
 
 			# Uninstall AutoCAD Mechanical 2018
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0000-0102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0000-0102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Mechanical 2018 Language Pack - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0409-1102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0409-1102-CF3F3A09B77D}'
 			# Uninstall ACM Private
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0000-3102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0000-3102-CF3F3A09B77D}'
 			# Uninstall AutoCAD Mechanical 2018 - English
-			# Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0409-2102-CF3F3A09B77D}'
+			Execute-MSI -Action Uninstall -Path '{28B89EEF-1005-0409-2102-CF3F3A09B77D}'
 
 			# Uninstall Revit 2018
-			# Execute-MSI -Action Uninstall -Path '{7346B4A0-1800-0510-0000-705C0D862004}'
+			Execute-MSI -Action Uninstall -Path '{7346B4A0-1800-0510-0000-705C0D862004}'
 			# Uninstall Autodesk Collaboration for Revit 2018
-			# Execute-MSI -Action Uninstall -Path '{AA384BE4-1800-0010-0000-97E7D7D00B17}'
+			Execute-MSI -Action Uninstall -Path '{AA384BE4-1800-0010-0000-97E7D7D00B17}'
 			# Uninstall Personal Accelerator for Revit
-			# Execute-MSI -Action Uninstall -Path '{7C317DB0-F399-4024-A289-92CF4B6FB256}'
+			Execute-MSI -Action Uninstall -Path '{7C317DB0-F399-4024-A289-92CF4B6FB256}'
 			# Uninstall Batch Print for Autodesk Revit 2018
-			# Execute-MSI -Action Uninstall -Path '{82AF00E4-1800-0010-0000-FCE0F87063F9}'
+			Execute-MSI -Action Uninstall -Path '{82AF00E4-1800-0010-0000-FCE0F87063F9}'
 			# Uninstall eTransmit for Autodesk Revit 2018
-			# Execute-MSI -Action Uninstall -Path '{4477F08B-1800-0010-0000-9A09D834DFF5}'
+			Execute-MSI -Action Uninstall -Path '{4477F08B-1800-0010-0000-9A09D834DFF5}'
 			# Uninstall Autodesk Revit Model Review 2018
-			# Execute-MSI -Action Uninstall -Path '{715812E8-1800-0010-0000-BBB894911B46}'
+			Execute-MSI -Action Uninstall -Path '{715812E8-1800-0010-0000-BBB894911B46}'
 			# Uninstall Worksharing Monitor for Autodesk Revit 2018
-			# Execute-MSI -Action Uninstall -Path '{5063E738-1800-0010-0000-7B7B9AB0B696}'
+			Execute-MSI -Action Uninstall -Path '{5063E738-1800-0010-0000-7B7B9AB0B696}'
 			# Uninstall Dynamo Revit 1.2.2
-			# Execute-MSI -Action Uninstall -Path '{0FF47E28-76A5-44BA-8EEF-58824252F528}'
+			Execute-MSI -Action Uninstall -Path '{0FF47E28-76A5-44BA-8EEF-58824252F528}'
 		}
 
 		##*===============================================
@@ -334,13 +334,13 @@ Try {
 				# Install AutoCAD 2020
 		Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I AutoCAD2020.ini' -WindowStyle 'Hidden' -PassThru
 				# Install AutoCAD Civil 3D 2019
-		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I Civil3D2019.ini' -WindowStyle 'Hidden' -PassThru
+		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I Civil3D2020.ini' -WindowStyle 'Hidden' -PassThru
 				# Install AutoCAD Electrical 2019
-		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I AutoCAD2019Electrical.ini' -WindowStyle 'Hidden' -PassThru
+		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I AutoCAD2020Electrical.ini' -WindowStyle 'Hidden' -PassThru
 				# Install AutoCAD Mechanical 2019
-		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I AutoCAD2019Mechanical.ini' -WindowStyle 'Hidden' -PassThru
+		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I AutoCAD2020Mechanical.ini' -WindowStyle 'Hidden' -PassThru
 				# Install Revit 2019
-		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I Revit2019.ini' -WindowStyle 'Hidden' -PassThru
+		#Execute-Process -Path "$dirFiles\Img\Setup.exe" -Parameters '/W /Q /I Revit2020.ini' -WindowStyle 'Hidden' -PassThru
 
 
 		##*===============================================
@@ -382,6 +382,7 @@ Try {
 
 		# <Perform Uninstallation tasks here>
 
+		# Shared Components
 		# Uninstall Autodesk Material Library 2020
 		Execute-MSI -Action Uninstall -Path '{B9312A51-41B5-479D-9F72-E7448A2D89AF}'
 		# Uninstall Autodesk Material Library Base Resolution Image Library 2020
@@ -390,6 +391,8 @@ Try {
 		Execute-MSI -Action Uninstall -Path '{26FB18F7-B553-430D-94F6-C2389A91235F}'
 		# Uninstall Autodesk Single Sign On Component
 		Execute-MSI -Action Uninstall -Path '{E3807FC8-DD0A-4D6D-89E9-EAADE00C845C}'
+
+
 		# Uninstall AutoCAD 2020
 		Execute-MSI -Action Uninstall -Path '{28B89EEF-3001-0000-0102-CF3F3A09B77D}'
 		# Uninstall AutoCAD 2020 Language Pack - English
@@ -405,91 +408,83 @@ Try {
         # Genuine Service is not uninstalling if it has been installed in the past 24 hours. Testing different Uninstall method below
         # Execute-Process -Path "$envProgramFilesX86\Common Files\Autodesk Shared\AdskLicensing\uninstall.exe" -Parameters '/silent' -WindowStyle 'Hidden'
 
-		# Uninstall Autodesk Civil 3D 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-0102-CF3F3A09B77D}'
-		# Uninstall Autodesk Civil 3D 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-1102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Architecture 2019 Shared
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0000-4102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Architecture 2019 Language Shared - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2004-0409-4102-CF3F3A09B77D}'
-		# Uninstall Autodesk AutoCAD Map 3D 2019 Core
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0000-0102-CF3F3A09B77D}'
-		# Uninstall Autodesk AutoCAD Map 3D 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2002-0409-1102-CF3F3A09B77D}'
-		# Uninstall Autodesk Vehicle Tracking 2019 (64 bit) Core
-		# Execute-MSI -Action Uninstall -Path '{F0089F74-0ED1-47CA-BEC0-53F1ACAEC68A}'
-		# Uninstall Autodesk Civil 3D 2019 Private Pack
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0000-3102-CF3F3A09B77D}'
-		# Uninstall Autodesk Civil 3D 2019 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2000-0409-2102-CF3F3A09B77D}'
-		# Uninstall Autodesk Rail Module Layout 2019
-		# Execute-MSI -Action Uninstall -Path '{F0D81F9D-6F82-43B9-ABF5-33947F5437DA}'
-		# Uninstall Autodesk Storm and Sanitary Analysis 2019 x64 Plug-in
-		# Execute-MSI -Action Uninstall -Path '{58E36D07-2322-0000-8518-C854F44898ED}'
-		# Uninstall Autodesk Subassembly Composer 2019
-		# Execute-MSI -Action Uninstall -Path '{33CFED50-0FAD-442A-84FA-4D26DB59E332}'
+		# Uninstall Autodesk Civil 3D 2020
+	  Execute-MSI -Action Uninstall -Path '{28B89EEF-3000-0000-0102-CF3F3A09B77D}'
+		# Uninstall Autodesk Civil 3D 2020 Language Pack - English
+	  Execute-MSI -Action Uninstall -Path '{28B89EEF-3000-0409-1102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Architecture 2020 Shared
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3004-0000-4102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Architecture 2020 Language Shared - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3004-0409-4102-CF3F3A09B77D}'
+		# Uninstall Autodesk AutoCAD Map 3D 2020 Core
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3002-0000-0102-CF3F3A09B77D}'
+		# Uninstall Autodesk AutoCAD Map 3D 2020 Language Pack - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3002-0409-1102-CF3F3A09B77D}'
+		# Uninstall Autodesk Vehicle Tracking 2020 (64 bit) Core
+		Execute-MSI -Action Uninstall -Path '{2C12D147-23A0-4C6B-8E1D-F29C04C2F80E}'
+		# Uninstall Autodesk Civil 3D 2020 Private Pack
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3000-0000-3102-CF3F3A09B77D}'
+		# Uninstall Autodesk Civil 3D 2020 - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3000-0409-2102-CF3F3A09B77D}'
+		# Uninstall Autodesk Storm and Sanitary Analysis 2020 x64 Plug-in
+		Execute-MSI -Action Uninstall -Path '{58E36D07-2422-0000-8518-C854F44898ED}'
+		# Uninstall Autodesk Subassembly Composer 2020
+		Execute-MSI -Action Uninstall -Path '{33CFED50-3000-442A-84FA-4D26DB59E332}'
 
-		# Uninstall AutoCAD Electrical 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-0102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Electrical 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-1102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Electrical 2020
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0000-0102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Electrical 2020 Language Pack - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0409-1102-CF3F3A09B77D}'
 		# Uninstall ACADE Private
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-3102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Electrical 2019 Content Pack
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0000-5102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Electrical 2019 Content Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-6102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Electrical 2019 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2007-0409-2102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0000-3102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Electrical 2020 Content Pack
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0000-5102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Electrical 2020 Content Language Pack - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0409-6102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Electrical 2020 - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3007-0409-2102-CF3F3A09B77D}'
 
-		# Uninstall AutoCAD Mechanical 2019
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-0102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Mechanical 2019 Language Pack - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-1102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Mechanical 2020
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3005-0000-0102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Mechanical 2020 Language Pack - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3005-0409-1102-CF3F3A09B77D}'
 		# Uninstall ACM Private
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0000-3102-CF3F3A09B77D}'
-		# Uninstall AutoCAD Mechanical 2018 - English
-		# Execute-MSI -Action Uninstall -Path '{28B89EEF-2005-0409-2102-CF3F3A09B77D}'
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3005-0000-3102-CF3F3A09B77D}'
+		# Uninstall AutoCAD Mechanical 2020 - English
+		Execute-MSI -Action Uninstall -Path '{28B89EEF-3005-0409-2102-CF3F3A09B77D}'
 
-		# Uninstall Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{7346B4A0-1900-0510-0000-705C0D862004}'
-		# Uninstall Revit Content Libraries 2019
-		# Execute-MSI -Action Uninstall -Path '{941030D0-1900-0410-0000-818BB38A95FC}'
-		# Uninstall Autodesk Collaboration for Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{AA384BE4-1901-0010-0000-97E7D7D00B17}'
+		# Uninstall Revit 2020
+		Execute-MSI -Action Uninstall -Path '{7346B4A0-2000-0510-0000-705C0D862004}'
+		# Uninstall Revit Content Libraries 2020
+		Execute-MSI -Action Uninstall -Path '{941030D0-2000-0410-0000-818BB38A95FC}'
+		# Uninstall Autodesk Cloud Models for Revit 2020
+		Execute-MSI -Action Uninstall -Path '{AA384BE4-2001-0010-0000-97E7D7D00B17}'
 		# Uninstall Personal Accelerator for Revit
-		# Execute-MSI -Action Uninstall -Path '{7C317DB0-F399-4024-A289-92CF4B6FB256}'
-		# Uninstall Batch Print for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{82AF00E4-1901-0010-0000-FCE0F87063F9}'
-		# Uninstall eTransmit for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{4477F08B-1901-0010-0000-9A09D834DFF5}'
-		# Uninstall Autodesk Revit Model Review 2019
-		# Execute-MSI -Action Uninstall -Path '{715812E8-1901-0010-0000-BBB894911B46}'
-		# Uninstall Worksharing Monitor for Autodesk Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{5063E738-1901-0010-0000-7B7B9AB0B696}'
-		# Uninstall Autodesk Material Library Low Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{77F779B8-3262-4014-97E9-36D6933A1904}'
-		# Uninstall Autodesk Advanced Material Library Base Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{105181A1-013C-4EE7-A368-999FD7ED950A}'
-		# Uninstall Autodesk Advanced Material Library Low Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{ACC0DD09-7E20-4792-87D5-BDBE40206584}'
-		# Uninstall IronPython 2.7.3
-		# Execute-MSI -Action Uninstall -Path '{1EBADAEA-1A0F-40E3-848C-0DD8C5E5A10D}'
-		# Uninstall Dynamo Core 1.3.3
-		# Execute-MSI -Action Uninstall -Path '{F1AA809A-3D47-4FB9-8854-93E070C66A20}'
-		# Uninstall Dynamo Revit 1.3.3
-		# Execute-MSI -Action Uninstall -Path '{DE076F37-60CA-4BDC-A5A3-B300DEA4358C}'
-		# Uninstall FormIt Converter for Revit 2019
-		# Execute-MSI -Action Uninstall -Path '{5E47699C-B0DE-443F-92AE-1D1334499D5E}'
-		# Uninstall Autodesk Revit 2019 MEP Fabrication Configuration - Imperial
-		# Execute-MSI -Action Uninstall -Path '{7B1D0D58-E2A9-400B-9663-86FD56CB44B9}'
-		# Uninstall Autodesk Revit 2019 MEP Fabrication Configuration - Metric
-		# Execute-MSI -Action Uninstall -Path '{8E6AEB11-ECE7-475A-BB7D-1D6719B2F8BA}'
-		# Uninstall Autodesk Material Library Medium Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{2E819775-E94C-42CC-9C5D-ABB2ADABC7C2}'
-		# Uninstall Autodesk Advanced Material Library Medium Resolution Image Library 2019
-		# Execute-MSI -Action Uninstall -Path '{078698AF-8BB1-4631-86D0-D91FEE147256}'
+		Execute-MSI -Action Uninstall -Path '{533DE806-7EC5-4A73-841B-007110126A75}'
+		# Uninstall Batch Print for Autodesk Revit 2020
+		Execute-MSI -Action Uninstall -Path '{82AF00E4-2001-0010-0000-FCE0F87063F9}'
+		# Uninstall eTransmit for Autodesk Revit 2020
+		Execute-MSI -Action Uninstall -Path '{4477F08B-2001-0010-0000-9A09D834DFF5}'
+		# Uninstall Autodesk Revit Model Review 2020
+		Execute-MSI -Action Uninstall -Path '{715812E8-2001-0010-0000-BBB894911B46}'
+		# Uninstall Worksharing Monitor for Autodesk Revit 2020
+		Execute-MSI -Action Uninstall -Path '{5063E738-2001-0010-0000-7B7B9AB0B696}'
+		# Uninstall Autodesk Material Library Low Resolution Image Library 2020
+		Execute-MSI -Action Uninstall -Path '{77F779B8-3262-4014-97E9-36D6933A1904}'
+		# Uninstall Autodesk Advanced Material Library Base Resolution Image Library 2020
+		Execute-MSI -Action Uninstall -Path '{FF27FA47-6E0F-4654-A435-19916B297565}'
+		# Uninstall Autodesk Advanced Material Library Low Resolution Image Library 2020
+		Execute-MSI -Action Uninstall -Path '{042B92EF-929A-40B1-9578-DA8363208D02}'
+		# Uninstall FormIt Converter for Revit 2020
+		Execute-MSI -Action Uninstall -Path '{7A22DBAA-79A6-4C7B-98FA-9157A97EF6DA}'
+		# Uninstall Autodesk Revit 2020 Revit MEP Imperial Content
+		Execute-MSI -Action Uninstall -Path '{38AEB114-D437-4695-B390-6D03723F32E0}'
+		# Uninstall Autodesk Revit 2020 Revit MEP Metric Content
+		Execute-MSI -Action Uninstall -Path '{6504036D-FF6D-41E0-B3FE-3193E9BC2047}'
+		# Uninstall Autodesk Material Library Medium Resolution Image Library 2020
+		Execute-MSI -Action Uninstall -Path '{B52B3C0C-F56D-44CB-AC81-F86BCBB7550F}'
+		# Uninstall Autodesk Advanced Material Library Medium Resolution Image Library 2020
+		Execute-MSI -Action Uninstall -Path '{0F682C15-79B0-4E6F-A2F4-56BC8CD43F1F}'
 
 
 
